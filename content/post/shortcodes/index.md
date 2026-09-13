@@ -1,38 +1,10 @@
 ---
-title: Shortcodes
+title: uncourteous corridor
 description: Useful shortcodes that can be used in Markdown
-date: 2023-08-25 00:00:00+0000
+date: 2024-11-25 00:00:00+0000
 image: cover.jpg
 ---
 
-For more details, check out the [documentation](https://stack.jimmycai.com/writing/shortcodes).
+## uncourteous corridor
 
-## Bilibili video
-
-{{< bilibili "BV1d4411N7zD" >}}
-
-## Tencent video
-
-{{< tencent "g0014r3khdw" >}}
-
-## YouTube video
-
-{{< youtube "0qwALOOvUik" >}}
-
-## Generic video file
-
-{{< video "https://www.w3schools.com/tags/movie.mp4" >}}
-
-## GitLab
-
-{{< gitlab 2589724 >}}
-
-## Quote
-
-{{< quote author="A famous person" source="The book they wrote" url="https://en.wikipedia.org/wiki/Book">}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-{{< /quote >}}
-
------
-
-> Photo by [Codioful](https://unsplash.com/@codioful) on [Unsplash](https://unsplash.com/photos/WDSN62Qdxuk)
+‘Oh, I can take that.’ I love how my mind always rolls down the dirtiest alleyway possible, an eager tourist of the obscene. To be fair, the tone could not be analyzed in its entirety, what with the wind chipping in. There’s nothing I loathe more than a conversation interrupted. Contradictorily, though, many would argue there’s nothing they loathe more than someone’s accidentally on purpose eavesdropping. (Mine, for the intent of this exercise, was entirely on purpose). ‘I have an idea - don’t even bother. Like, ever.’ Really heavy words for 8:57 in the morning, and I was once more cursing Mother Nature for her impolite obstruction, guarding me from more context. Generally, though, you shouldn’t curse your mother. And, isn’t a word like bother sometimes more bruising than an actual curse? Sometimes, I think that the cuts of simple words are equivalent in their aggression to an explicit curse. Often, I think there’s a time and place for those sorts of words, and 8:57 a.m. on a crosswalk is neither of those. In some cases, though, a conversation needs to be had, and it might come down to either a 3 minute confrontation on Ellesmere, or the complete burial and ceremony of those words altogether, neatly suffocated and unreachable. Not a fan of either option, much prefer bearing witness as a curious nobody. ‘Why actually, the daily crosswords make me smarter.’ My favourite thing about talking is that people never just say what they have to say. Writing is a work of concision, but passive conversation, especially when not being scrutinized for it, is full of fillers. Well, that’s what fillers are for, aren’t they? To incur fullness? That’s why I take pleasure in eating the leftovers of strangers’ conversation, the litter of their language they become so careless with, not knowing its final destination, not knowing it would end up on my page. Unlike crosswords, speech is peppered with ‘why actually’s and ‘like’s and ‘oh’s. Actually, sometimes crosswords borrow those syllables of excess as well. In fact, they use them as fillers in the same way humans do. Look at that, signs of the morbidly beautiful intersectionality of this world. ‘Lord, Tim Horton deserves the sloppiest toppy for this goddamn Olympic donut’. Exactly the kind of academia-adjacent you’d expect to bounce through the stairwells of this institute of intelligence, circling up and around a floor or two, reaching my line of hearing and (unfortunately) not stifled by the jersey threads of this hijab. Tim Horton is dead. Perhaps that student is studying necrophilia. It stresses me out when my peaceful trots are hijacked by such lawless words, my mind becomes polluted by their absorption. In my infrequent, 10-minute reprieves from being fed information, these are not words I yearn to snack on. ‘A ski trip is an unacceptable excuse for missing the midterm. Come up with a better one. Tell me something else.’ Ohhh it’s so over for him. Trailing behind a professor with 8 waiting students around seems a little out of place, but respectable to approach in person, I guess? Don’t know what he’ll do. Haven’t stopped thinking of him since yesterday. His tone shone with some crystal conviction - he was not planning on cancelling that ski trip. I think it’s selfish of randoms to make passersby victims of conversations like these, now a day has passed and I’m still attracted to someone else’s consequence. I don’t think people should just shut up and move in silence. I think the world would be flavoured rather blandly if that was the shameful alternative reality. I just think I think much too much, and when my own thoughts are loud enough, extraneous interceptions are extra unwelcome. 
