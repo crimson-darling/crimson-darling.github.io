@@ -9,6 +9,7 @@ tags:
 ---
 
 The Halal:Haram Ratio
+
 March 2, 2026 / Ramadan 13, 1447 AH
 
 <br> 
