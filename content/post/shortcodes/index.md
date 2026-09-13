@@ -1,8 +1,11 @@
 ---
 title: uncourteous corridor
-description: Useful shortcodes that can be used in Markdown
+description: 
 date: 2024-11-25 00:00:00+0000
 image: cover.jpg
+categories:
+    - Blog
+tags:
 ---
 
 ## uncourteous corridor
