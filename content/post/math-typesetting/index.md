@@ -2,7 +2,7 @@
 title: Driving School, Crash Course
 description: 
 date: 2026-01-24 00:00:00+0000
-tags: guilt, family
+tags: guilt
 categories: Essay
 ---
 
