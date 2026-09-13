@@ -11,15 +11,15 @@ SortBy              = "default"
 
 [footer]
     since      = 2026
-    customText = ""
+    customText = "documenting the discrepancies"
 
 [dateFormat]
     published   = ":date_full"
     lastUpdated = ":date_full"
 
 [sidebar]
-    emoji    = "<3"
-    subtitle = "describing this little life"
+    emoji    = "cd"
+    subtitle = "documenting the discrepancies"
     avatar   = "img/feather crimson darling.png"
 
 [article]
@@ -50,7 +50,7 @@ SortBy              = "default"
 
 ## Comments
 [comments]
-    enabled  = true
+    enabled  = false
     provider = "disqus"
 
     # See all the available configurations at https://github.com/CaiJimmy/hugo-theme-stack/blob/master/config/_default/params.toml
