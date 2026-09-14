@@ -1,6 +1,6 @@
 ---
-title: Driving School, Crash Course
-description: 
+title: Driving School
+description: Crash Course
 date: 2026-01-24 00:00:00+0000
 categories:
     - Essay
