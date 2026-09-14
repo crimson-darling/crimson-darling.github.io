@@ -2,7 +2,6 @@
 title: uncourteous corridor
 description: 
 date: 2024-11-25 00:00:00+0000
-image: cover.jpg
 categories:
     - Blog
 tags:
