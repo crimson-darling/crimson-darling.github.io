@@ -2,7 +2,6 @@
 title: The Halal:Haram Ratio
 date: 2026-03-02
 description: Ramadan 13, 1447 AH
-image: 2.jpg
 categories:
     - Essay
 tags:
