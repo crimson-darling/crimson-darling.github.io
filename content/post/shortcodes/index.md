@@ -1,6 +1,6 @@
 ---
 title: uncourteous corridor
-description: 
+description: littered with words
 date: 2024-11-25 00:00:00+0000
 categories:
     - Blog
